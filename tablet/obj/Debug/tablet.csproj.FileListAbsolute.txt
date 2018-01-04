@@ -1,0 +1,9 @@
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\bin\Debug\tablet.exe.config
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\bin\Debug\tablet.exe
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\bin\Debug\tablet.pdb
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\obj\Debug\tablet.csprojResolveAssemblyReference.cache
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\obj\Debug\tablet.check.resources
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\obj\Debug\tablet.Properties.Resources.resources
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\obj\Debug\tablet.csproj.GenerateResource.Cache
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\obj\Debug\tablet.exe
+c:\users\emre.yuz\documents\visual studio 2013\Projects\tablet\tablet\obj\Debug\tablet.pdb
